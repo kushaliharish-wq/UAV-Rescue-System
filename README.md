@@ -1,3 +1,6 @@
+UAV RESCUE SYSTEM
+
+
 This project helps disaster rescue teams identify the level of injury in persons through the location of wounds on a person. 
 
 Using CNN images frames from videos captured by Unmanned Autonomous vehicles are categorized into images with an identifying label around the location of injury on the human.
